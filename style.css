@@ -1,5 +1,5 @@
 .yllka {
-    width: 113em;
+    width: 220em;
     display: flex;
     justify-content: space-between;
     height: 2em;
@@ -15,13 +15,15 @@
     bottom: -32em;
     position: relative;
     text-align: center;
+    color: grey;
 }
 
 /* Styling for the blue div and its container */
 .blue-div {
-    margin-top: 20px; /* Adds space between navbar and blue div */
-    display: flex;
-    justify-content: center;
+/* Adds space between navbar and blue div */
+display: flex;
+justify-content: space-around;
+  
 }
 
 .blue-div div {
@@ -29,4 +31,10 @@
     height: 15em;
     width: 35em;
     border-radius: 10px;
+}
+.display{
+    display: flex;
+}
+.paragraf{
+    color: grey;
 }
