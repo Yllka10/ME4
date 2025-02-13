@@ -1,0 +1,41 @@
+.yllka {
+    width: 220em;
+    display: flex;
+    justify-content: space-between;
+    height: 2em;
+}
+
+.left-navbar {
+    height: 59em;
+    width: 20em;
+    border-right: 1px solid rgba(128, 128, 128, 0.211);
+}
+
+.posht {
+    bottom: -32em;
+    position: relative;
+    text-align: center;
+    color: grey;
+}
+
+/* Styling for the blue div and its container */
+.blue-div {
+/* Adds space between navbar and blue div */
+display: flex;
+justify-content: space-around;
+  
+}
+
+.blue-div div {
+    background-color: blue;
+    height: 15em;
+    width: 35em;
+    border-radius: 10px;
+}
+.display{
+    display: flex;
+}
+.paragraf{
+    color: grey;
+    width: 7em;
+}
