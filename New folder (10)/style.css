@@ -1,0 +1,74 @@
+.horizontal{
+    height: 15em;
+       width: 35em;
+  border-radius: 10px;
+  margin-top: 2em;
+}
+
+.nav-div {
+    width: 12em;
+}
+.women{
+    background-color: pink;
+    color: white;
+    height: 3em;
+    width: 7em;
+}
+.men{
+    height: 3em;
+    width: 7em;
+}
+.vertikal1{
+    height: 33em;
+    width: 17em;
+    border-radius: 10px;
+    margin-top: 3em;
+    margin-left: 2em;
+    background-image: url(https://codewithsadee.github.io/footcap/assets/images/insta-3.jpg);
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+.img{
+    height: 33em;
+    width: 15em;
+}
+.div-down{
+    height: 23em;
+      width: 15em;
+       border-radius: 10px;
+     margin-top: 3em;
+      margin-left: 2em;
+}
+.img-down{
+    height: 22em;
+    width: 15em;
+}
+.yllka {
+    width: 220em;
+    display: flex;
+    justify-content: space-between;
+    height: 2em;
+}
+.left-navbar {
+    height: 59em;
+    width: 20em;
+    border-right: 1px solid rgba(128, 128, 128, 0.211);
+}
+.posht {
+    bottom: -32em;
+    position: relative;
+    text-align: center;
+    color: grey;
+}
+.paragraf{
+    color: grey;
+    width: 7em;
+}
+.vertikal{
+   background-image: url(https://blogger.googleusercontent.com/img/a/AVvXsEgH5OEaS20UtSKkkekJ9kkjQLjFos0nbAW_rb4I5Gqj2Badmjk59gko0vmJWG0YnxNV1CJ5EG7EBnr76KK5hNSThVrRYx6Yp3iJ7HmMzGubr9cWps9XFwi2Ct469iTCEdvpjVvWnutNKdxPRZaMdwAusIeDlgWj7YLJE972Ix1ewODddqieL7CGT9cD=w640-h640); 
+   background-position: center; /* Center the image */
+   background-repeat: no-repeat; /* Do not repeat the image */
+   background-size: cover; /* Resize the background image to cover the entire container */
+}  
+ 
